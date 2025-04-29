@@ -1,0 +1,5 @@
+drwxrwx---   2 mc5      mc5          4096 Mar 14 17:53 errors
+-rwxrwx---   1 mc5      mc5          4799 Mar 14 02:10 handlers.yml
+drwxrwx---   2 mc5      mc5          4096 Mar 14 03:55 logs
+drwxrwx---   2 mc5      mc5          4096 Mar 14 02:11 rules
+-rwxrwx---   1 mc5      mc5         15180 May 02 04:11 settings.yml

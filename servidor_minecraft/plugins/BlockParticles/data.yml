@@ -1,0 +1,25 @@
+locations:
+  crate1:
+    world: world
+    x: -1
+    y: 78
+    z: 30
+    particle: Spiral
+  crate2:
+    world: world
+    x: -3
+    y: 78
+    z: 31
+    particle: Spiral
+  crate3:
+    world: world
+    x: -9
+    y: 78
+    z: 31
+    particle: Spiral
+  crate4:
+    world: world
+    x: -11
+    y: 78
+    z: 30
+    particle: Spiral
